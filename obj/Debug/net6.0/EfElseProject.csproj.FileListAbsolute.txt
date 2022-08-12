@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\bin\Debug\net6.0\EfElseProject.exe
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\bin\Debug\net6.0\EfElseProject.deps.json
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\bin\Debug\net6.0\EfElseProject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\bin\Debug\net6.0\EfElseProject.dll
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\bin\Debug\net6.0\EfElseProject.pdb
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.dll
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\refint\EfElseProject.dll
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.pdb
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\EfElseProject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\3\EfElseProject\obj\Debug\net6.0\ref\EfElseProject.dll
